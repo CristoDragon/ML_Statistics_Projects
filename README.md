@@ -1,1 +1,3 @@
-# ML_Statistics_Projects
+# Machine Learning and Statistics Projects
+
+# Time Series Analysis
